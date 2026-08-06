@@ -36,7 +36,7 @@ The application allows users to quickly create coherent, structured blog posts w
 ---
 
 ## 🌐 Live Demo
-👉 [https://quick-blog.vercel.app](https://quick-blog-git-main-vanshs-projects-1f01b9b0.vercel.app/?)
+👉 (https://quick-blog-git-main-vanshs-projects-1f01b9b0.vercel.app/?)
 
 ---
 
